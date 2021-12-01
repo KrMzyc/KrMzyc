@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=KrMzyc&layout=compact" width="500">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=KrMzyc&layout=compact">
