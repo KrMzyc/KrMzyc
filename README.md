@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=KrMzyc&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true" width="500">
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrMzyc&hide=smali,smarty&&langs_count=20&layout=compact" width="500">
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KrMzyc&layout=compact">
